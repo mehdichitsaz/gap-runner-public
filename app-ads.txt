@@ -1,0 +1,3 @@
+# app-ads.txt placeholder for Not Flappy Bird
+# Add authorized seller entries when ad partners are configured.
+# example.com, pub-1234567890, DIRECT, f08c47fec0942fa0
