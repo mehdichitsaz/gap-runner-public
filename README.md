@@ -13,5 +13,5 @@ This repository hosts the official static website for **Gap Runner**.
 - App Store: **TBD** (placeholder kept on site until the public listing URL is available)
 
 ## Contact
-- Support: support@notflappybird.app
-- Privacy: privacy@notflappybird.app
+- Support: support@yourdomain.com
+- Privacy: privacy@yourdomain.com
