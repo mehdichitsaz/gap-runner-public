@@ -1,3 +1,1 @@
-# app-ads.txt placeholder for Gap Runner
-# Add authorized seller entries when ad partners are configured.
-# example.com, pub-1234567890, DIRECT, f08c47fec0942fa0
+google.com, pub-7251371733383885, DIRECT, f08c47fec0942fa0
