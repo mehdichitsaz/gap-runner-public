@@ -11,5 +11,5 @@ This repository hosts the official static website for **Gap Runner**.
 - App Store: https://apps.apple.com/ca/app/gap-runner/id6761074765
 
 ## Contact
-- Support: support@yourdomain.com
-- Privacy: privacy@yourdomain.com
+- Support: info@mehdichitsaz.com
+- Privacy: info@mehdichitsaz.com
